@@ -73,13 +73,13 @@ These kinds of insights are especially valuable for improving inventory planning
 ![Revenue by Product](visuals/top_products_by_revenue.png)
 
 ### Quantity Sold
-![Quantity Sold](visuals/top_products_by_quantity.png)
+![Quantity Sold](visuals/top_products_by_quantity_sold.png)
 
 ### Revenue by Category
-![Revenue by Category](visuals/revenue_by_category.png)
+![Revenue by Category](visuals/revenue_distribution_by_category.png)
 
 ### Average Price per Category
-![Avg Price](visuals/avg_price_per_unit_by_category.png)
+![Avg Price](visuals/average_price_per_unit_by_category.png)
 
 
 # Business Impact
