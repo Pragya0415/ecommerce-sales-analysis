@@ -43,7 +43,7 @@ These kinds of insights are especially valuable for improving inventory planning
 1. Data Cleaning
 - Checked for duplicates and nulls
 - Removed invalid data (e.g., negative quantities)
-- Verified `Total_Sale` by recalculating it from quantity × price
+- Verified Total_Sale by recalculating it from quantity × price
 - Ensured numeric columns were correctly typed
 
 2. Exploratory Data Analysis (EDA)
